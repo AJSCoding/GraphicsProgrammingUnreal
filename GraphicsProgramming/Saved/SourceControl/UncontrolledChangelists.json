@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/adamj/GitHubUnreal/GraphicsProgrammingUnreal/GraphicsProgramming/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/adamj/GitHubUnreal/GraphicsProgrammingUnreal/GraphicsProgramming/Content/Level/Game1.umap"
+				"C:/Users/adamj/GitHubUnreal/GraphicsProgrammingUnreal/GraphicsProgramming/Content/Level/Game1.umap",
+				"C:/Users/adamj/GitHubUnreal/GraphicsProgrammingUnreal/GraphicsProgramming/Content/Level/Game2.umap",
+				"C:/Users/adamj/GitHubUnreal/GraphicsProgrammingUnreal/GraphicsProgramming/Content/Level/Game1_sharedassets/Layer_0_LayerInfo.uasset"
 			]
 		}
 	]
